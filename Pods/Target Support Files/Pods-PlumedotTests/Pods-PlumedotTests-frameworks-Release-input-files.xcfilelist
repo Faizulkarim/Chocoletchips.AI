@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-PlumedotTests/Pods-PlumedotTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/QorumLogs/QorumLogs.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
